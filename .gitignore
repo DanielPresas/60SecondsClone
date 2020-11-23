@@ -1,0 +1,8 @@
+.vs/
+Debug/
+x64/
+60SecondsClone-v2/x64/
+
+*.vcxproj.user
+*.vcxproj.filters
+**/desktop.ini

@@ -1,0 +1,15 @@
+We decide that we're probably more scared of what's behind the wall than they are of us, so we
+ 
+decided to attack first. We mustered up all the courage inside of us and threw everything
+ 
+we had at them. I don't think we got any of them, but we did scare them away and found some stuff
+ 
+they left in the wall. They seemed to have quite the stash.
+ 
+ 
+                                     [_]
+                         ____       /   \
+       _/7______        [____]      |===|
+  -1  |________0|   +2  |****|  +2  |h2o|
+      \---()//          |****|      |===|
+       /__/             [____]      |___|

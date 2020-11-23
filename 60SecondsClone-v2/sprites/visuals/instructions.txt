@@ -1,0 +1,103 @@
+You are threatened by a nuclear warhead! You have 60 seconds to run around your house and grab supplies and other people to aid in your survival.               
+                                                                                                                                                                
+                                                                                                                                                                
+Use the [W][A][S][D] keys to move and [Space] to pick up different things in the house and drop them off at the bunker door.                                    
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+Supplies you can get:                                                                                                                                           
+                                                                                                                                                                
+              ____                                                                                                                                              
+             [____]                                                     _/7______                                                                               
+             |****|                                                    |________0|                                                                              
+             |****|    Soup: Food in the apocalypse.                   \---()//      Gun: Point at who you want to hurt.                                        
+             [____]                                                    /__/                                                                                     
+                                                                                                                                                                
+                                                                                                                                                                
+               _                                                                                                                                                
+              [_]                                                                                                                                               
+             /   \                                                     ____\/____                                                                               
+             |===|                                                    ||  (###)  |                                                                              
+             |h2o|     Water: Sweet, sweet dihydrogen monoxide.       || [o o o] |   Radio: Gotta listen to my tunes! Even if all the radio stations are down...
+             |===|                                                    ||_________|                                                                              
+             |___|                                                                                                                                              
+                                                                                                                                                                
+                                                                                                                                                                
+            _I---I                                                      ,-------.                                                                               
+           ||*****|                                                    (_\*******\                                                                              
+           || -|- |    First Aid Kit: I need healing!                     |******|   Map: Because GPS isn't going to be working anymore.                        
+           ||_____|                                                      _|******|                                                                              
+                                                                        (_/______/                                                                              
+                                                                                                                                                                
+                                                                                                                                                                
+             _                                                                                                                                                  
+           _|_|_-'\\                                                                                                                                            
+          |        \\                                                    _____                                                                                  
+          |_____   ||  Axe: Very sharp and dangerous.                  /|_____|                                                                                 
+            | | -.//                                                   ||X X X|      Rat poison: Eh, why not, may be useful.                                    
+            | |                                                        ||_____|                                                                                 
+            | |                                                        ||_____|                                                                                 
+            |_/                                                                                                                                                 
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+G3NTS members:                                                                                                                                                  
+                                           / ___\                                                                                                               
+                       / ___________\     / |o o|\                                                                                                              
+      \ _________\     |            \     | \_w /  _____        / _________\                                                                                    
+        ___    ___\    |   __    __  \       | | /\______\        ___    ___\                                                                                   
+     | |___|==|___|    \             /       \ //  __   _ \    | |___|==|___|     More people means more help, but also more mouths to feed.                    
+     \            /     \      |    /          /| (__)~(_)//    \      ''   /                                                                                   
+       \   ____   /      \   ____   /         \  \    v   /\     \    / \  /      It's game over if they all die.                                               
+        \________/        \________/         /  / \______/ /      \_______/                                                                                     
+                                                                                                                                                                
+          Daniel            Edward               DelenTia           Tavis                                                                                       
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                                                                                                                                                
+                                        Bunker door:                                                                                                            
+                                                                                                                                                                
+                                        |------------|                                                                                                          
+                                        |            |                                                                                                          
+                                        |            |                                                                                                          
+                                        |            |                                                                                                          
+                                        |            |                                                                                                          
+                                        |  |         |                                                                                                          
+                                        |  |--       |                                                                                                          
+                                        |  | |       |     Press [Space] near the bunker door to drop items into it.                                            
+                                        |  | |       |                                                                                                          
+                                        |  | |       |     Make sure you're there by the end of 60 seconds or you get blown up!                                 
+                                        |  |--       |                                                                                                          
+                                        |  |         |                                                                                                          
+                                        |            |                                                                                                          
+                                        |            |                                                                                                          
+                                        |            |                                                                                                          
+                                        |            |                                                                                                          
+                                        |------------|                                                                                                          

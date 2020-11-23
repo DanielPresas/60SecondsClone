@@ -1,0 +1,12 @@
+We decided to give the elderly a visit. Upon arrival, we couldn't see anyone in the area. It
+ 
+looks like whoever was here left in a hurry. We didn't find many supplies, but we did find
+ 
+some fairly clean water left behind. Guess they forgot about it.
+ 
+       [_]
+      /   \
+      |===|
+  +1  |h2o|
+      |===|
+      |___|

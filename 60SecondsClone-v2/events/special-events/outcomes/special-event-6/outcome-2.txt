@@ -1,0 +1,14 @@
+We took the canned soup we found and added it to our inventory. It's canned soup, this stuff never
+ 
+expires...right?
+ 
+ 
+ 
+We might as well add it to our food supply, it's not like we can be too picky with what we eat.
+
+
+      [____]
+  +1  |****|
+      |****|
+      [____]
+

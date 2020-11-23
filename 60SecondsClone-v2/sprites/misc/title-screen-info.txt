@@ -1,0 +1,21 @@
+ rrrrrrrrrrrr      rrrrrrrrrrr
+r    rrr     r    r           r
+r   r   rrrrrr    r    rrr    r
+r   r             r   r   r   r
+r   rrrrrrrrr     r   r   r   r
+r    rrrr    r    r   r   r   r
+r   r    r   r    r   r   r   r
+r   rrrrrr   r    r   rrrrr   r
+r            r    r           r
+rrrrrrrrrrrrrr    rrrrrrrrrrrrr
+             yyyyyyyyyy     yyyyyyyyyyy     yyyyyyyyyyy     yyyyyyyyyyy     yyyyyyyyyyyyyyy     yyyyyyyyy       yyyyyyyyyy     yyyy 
+            y          y   y           y   y           y   y           y   y               y   y         y     y          y   y    y
+            y     yyyyyy   y     yyyyyyy   y     yyyyyyy   y     yyy   y   y     yyyyy     y   y    yy    y    y     yyyyyy   y    y
+            y    y         y    y          y    y          y    y   y  y   y    y     y    y   y   y  y    y   y    y         y    y
+            y    yyyyyy    y    yyyyyyy    y    y          y    y   y  y   y    y     y    y   y   y   y   y   y    yyyyyy    y    y
+            y          y   y           y   y    y          y    y   y  y   y    y     y    y   y   y   y   y   y          y   y    y
+            yyyyyy     y   y     yyyyyyy   y    y          y    y   y  y   y    y     y    y   y   y   y   y   yyyyyy     y   y    y
+                  y    y   y    y          y    y          y    y   y  y   y    y     y    y   y   y   y   y         y    y   yyyyyy
+             yyyyyy    y   y    yyyyyyy    y    yyyyyyy    y    yyyyy  y   y    y     y    y   y   yyyy    y    yyyyyy    y    yyyy 
+            y          y   y           y   y           y   y           y   y    y     y    y   y          y    y          y   y    y
+            yyyyyyyyyyyy   yyyyyyyyyyyyy   yyyyyyyyyyyyy   yyyyyyyyyyyyy   yyyyyy     yyyyyy   yyyyyyyyyyy     yyyyyyyyyyyy   yyyyyy
